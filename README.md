@@ -1,9 +1,9 @@
 # Project: Capstone Project
 
 ## Project Definition
->The findings of the analysis are published in the [blog post](https://medium.com/@student.msj.5/how-to-predict-churn-and-retain-customers-962c7766c48f) that was created as part of this project
+>The findings of this project's analysis is published on a [blog post](https://medium.com/@student.msj.5/how-to-predict-churn-and-retain-customers-962c7766c48f) that was created as part of this project
 
->The approach for the technical analysis can be found on the [Jupyter notebook](https://github.com/marq-oh/dsnd-p4/blob/master/dsnd-p4.ipynb)
+>The approach for this project's technical analysis can be found on the [Jupyter notebook](https://github.com/marq-oh/dsnd-p4/blob/master/dsnd-p4.ipynb)
 
 This is the final project in my Data Science course and is a requirement for completion. The intent of the project is to demonstrate learnings in analyzing and modeling a large dataset using Data Science processes with Apache Spark. 
 
