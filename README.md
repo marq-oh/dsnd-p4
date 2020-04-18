@@ -12,7 +12,7 @@ The project showcases the use of Data Science processes (CRISP-DM) with Apache S
 
 To predict churn, the CRISP-DM process was followed to clean the data, analyze the data, build models and evaluate the models to find the best one. There were 4x models that were built in total and were evaluated using Precision, Recall and F1.
 
-The findings of the analysis are published in the [blog post](insert_link) that was created as part of this project
+The findings of the analysis are published in the [blog post](https://medium.com/@student.msj.5/how-to-predict-churn-and-retain-customers-962c7766c48f) that was created as part of this project
 
 The approach for the analysis can be found on the [Jupyter notebook](https://github.com/marq-oh/dsnd-p4/blob/master/dsnd-p4.ipynb)
 
