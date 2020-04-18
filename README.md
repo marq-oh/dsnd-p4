@@ -14,7 +14,7 @@ To predict churn, the CRISP-DM process was followed to clean the data, analyze t
 ## Installation
 The code in the project was created using Apache Spark (PySpark) on Jupyter.
 
-You can check this [blog post](https://medium.com/@naomi.fridman/install-pyspark-to-run-on-jupyter-notebook-on-windows-4ec2009de21f) for instructions on how to install Apache Spark and PySpark on Windows.
+You can check this blog post for [instructions on how to install Apache Spark and PySpark on Windows]((https://medium.com/@naomi.fridman/install-pyspark-to-run-on-jupyter-notebook-on-windows-4ec2009de21f).
 
 For the data, you can [download it from here](https://video.udacity-data.com/topher/2018/December/5c1d6681_medium-sparkify-event-data/medium-sparkify-event-data.json)
 
